@@ -1,0 +1,596 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.6877554059028625,
+        0.9667702317237854,
+        0.9463585615158081
+      ],
+      "min": [
+        0.6877554059028625,
+        -0.9667702317237854,
+        -0.9463585615158081
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 48,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.000166893005371,
+        0.997405469417572
+      ],
+      "min": [
+        -0.00016680188127793372,
+        0.002594560384750366
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 96,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999322891235352,
+        0.9998199939727783,
+        0.9998199343681335
+      ],
+      "min": [
+        -13.770455360412598,
+        -0.9998199939727783,
+        -1.5699912309646606
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786480,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999997615814209,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        18.6299991607666,
+        14.34306812286377
+      ],
+      "min": [
+        -17.6299991607666,
+        -13.564467430114746
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524288,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        18.6299991607666,
+        14.34306812286377
+      ],
+      "min": [
+        -17.6299991607666,
+        -13.564467430114746
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5125,
+      "count": 363834,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572864,
+      "componentType": 5126,
+      "count": 51940,
+      "max": [
+        0.9999175071716309,
+        0.9999947547912598,
+        0.9999946355819702
+      ],
+      "min": [
+        -5.788084506988525,
+        -0.9999947547912598,
+        -0.9999947547912598
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2196144,
+      "componentType": 5126,
+      "count": 51940,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048544,
+      "componentType": 5126,
+      "count": 51940,
+      "max": [
+        18.434490203857422,
+        14.452309608459473
+      ],
+      "min": [
+        -1.7168729305267334,
+        -13.564467430114746
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1464064,
+      "componentType": 5126,
+      "count": 51940,
+      "max": [
+        18.434490203857422,
+        14.452309608459473
+      ],
+      "min": [
+        -1.7168729305267334,
+        -13.564467430114746
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1455360,
+      "componentType": 5125,
+      "count": 294336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2819424,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.9297657012939453,
+        0.16114941239356995,
+        0.35677197575569153
+      ],
+      "min": [
+        -5.5079803466796875,
+        -0.16114941239356995,
+        -1.0174311399459839
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2820624,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        -1.0,
+        -3.0518509447574615e-05,
+        0.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1879584,
+      "componentType": 5126,
+      "count": 100,
+      "max": [
+        0.4992276430130005,
+        0.8387657403945923
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2632704,
+      "componentType": 5125,
+      "count": 294,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "dylanheyes (https://sketchfab.com/dylanheyes)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ultrawide-monitor-f84d24b6df3648d884fd9be9c8007dd4",
+      "title": "Ultrawide Monitor"
+    },
+    "generator": "Sketchfab-14.5.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2633880,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1880384,
+      "byteOffset": 2633880,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2821824,
+      "byteOffset": 4514264,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7336088,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Screen_baseColor.png"
+    },
+    {
+      "uri": "textures/Body_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "emissiveTexture": {
+        "index": 0
+      },
+      "name": "Screen",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.22640558412188738
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Body",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.8434361661123735,
+        "roughnessFactor": 0.12164295877049602
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.0,
+        0.3208220511382965,
+        1.0
+      ],
+      "name": "Lights",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.20760199999999998,
+          0.374137,
+          0.7999999999999999,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8831604914856444
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ultrawide Monitor_Screen_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ultrawide Monitor_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6,
+            "TEXCOORD_1": 7
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ultrawide Monitor_Body_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Ultrawide Monitor_Lights_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -0.9999997615814209,
+        0.0006731553003191948,
+        1.494705027125664e-19,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        -0.0006731553003191948,
+        -0.9999997615814209,
+        -2.220445519854721e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Ultrawide Monitor.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "matrix": [
+        -3.162594582993583e-06,
+        19.411867141723377,
+        0.0,
+        0.0,
+        -536.206298828118,
+        -8.73590944992575e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        242.1976318359375,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Ultrawide Monitor"
+    },
+    {
+      "mesh": 0,
+      "name": "Ultrawide Monitor_Screen_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Ultrawide Monitor_Body_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Ultrawide Monitor_Body_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Ultrawide Monitor_Lights_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "matrix": [
+        5.151487827301025,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -6.726766175267275e-08,
+        0.4128859639167731,
+        0.0,
+        0.0,
+        -0.1864953935146307,
+        -3.038395621485099e-08,
+        0.0,
+        0.9694370627403259,
+        0.0005322578945197165,
+        -1.0070958137512207,
+        1.0
+      ],
+      "name": "Power Indicator Light"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Object_9"
+    },
+    {
+      "name": "Object_10"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}
